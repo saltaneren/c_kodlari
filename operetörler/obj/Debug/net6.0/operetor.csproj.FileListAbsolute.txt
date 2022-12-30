@@ -1,0 +1,15 @@
+D:\Dev\CSharp\Console\operetor\bin\Debug\net6.0\operetor.exe
+D:\Dev\CSharp\Console\operetor\bin\Debug\net6.0\operetor.deps.json
+D:\Dev\CSharp\Console\operetor\bin\Debug\net6.0\operetor.runtimeconfig.json
+D:\Dev\CSharp\Console\operetor\bin\Debug\net6.0\operetor.dll
+D:\Dev\CSharp\Console\operetor\bin\Debug\net6.0\operetor.pdb
+D:\Dev\CSharp\Console\operetor\obj\Debug\net6.0\operetor.csproj.AssemblyReference.cache
+D:\Dev\CSharp\Console\operetor\obj\Debug\net6.0\operetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CSharp\Console\operetor\obj\Debug\net6.0\operetor.AssemblyInfoInputs.cache
+D:\Dev\CSharp\Console\operetor\obj\Debug\net6.0\operetor.AssemblyInfo.cs
+D:\Dev\CSharp\Console\operetor\obj\Debug\net6.0\operetor.csproj.CoreCompileInputs.cache
+D:\Dev\CSharp\Console\operetor\obj\Debug\net6.0\operetor.dll
+D:\Dev\CSharp\Console\operetor\obj\Debug\net6.0\refint\operetor.dll
+D:\Dev\CSharp\Console\operetor\obj\Debug\net6.0\operetor.pdb
+D:\Dev\CSharp\Console\operetor\obj\Debug\net6.0\operetor.genruntimeconfig.cache
+D:\Dev\CSharp\Console\operetor\obj\Debug\net6.0\ref\operetor.dll

@@ -1,0 +1,30 @@
+D:\Dev\CSharp\Console\sayisalloto\bin\Debug\net6.0\sayisalloto.exe
+D:\Dev\CSharp\Console\sayisalloto\bin\Debug\net6.0\sayisalloto.deps.json
+D:\Dev\CSharp\Console\sayisalloto\bin\Debug\net6.0\sayisalloto.runtimeconfig.json
+D:\Dev\CSharp\Console\sayisalloto\bin\Debug\net6.0\sayisalloto.dll
+D:\Dev\CSharp\Console\sayisalloto\bin\Debug\net6.0\sayisalloto.pdb
+D:\Dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.csproj.AssemblyReference.cache
+D:\Dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.AssemblyInfoInputs.cache
+D:\Dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.AssemblyInfo.cs
+D:\Dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.csproj.CoreCompileInputs.cache
+D:\Dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.dll
+D:\Dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\refint\sayisalloto.dll
+D:\Dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.pdb
+D:\Dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\sayisalloto.genruntimeconfig.cache
+D:\Dev\CSharp\Console\sayisalloto\obj\Debug\net6.0\ref\sayisalloto.dll
+E:\amed balita\sayisalloto\bin\Debug\net6.0\sayisalloto.exe
+E:\amed balita\sayisalloto\bin\Debug\net6.0\sayisalloto.deps.json
+E:\amed balita\sayisalloto\bin\Debug\net6.0\sayisalloto.runtimeconfig.json
+E:\amed balita\sayisalloto\bin\Debug\net6.0\sayisalloto.dll
+E:\amed balita\sayisalloto\bin\Debug\net6.0\sayisalloto.pdb
+E:\amed balita\sayisalloto\obj\Debug\net6.0\sayisalloto.csproj.AssemblyReference.cache
+E:\amed balita\sayisalloto\obj\Debug\net6.0\sayisalloto.GeneratedMSBuildEditorConfig.editorconfig
+E:\amed balita\sayisalloto\obj\Debug\net6.0\sayisalloto.AssemblyInfoInputs.cache
+E:\amed balita\sayisalloto\obj\Debug\net6.0\sayisalloto.AssemblyInfo.cs
+E:\amed balita\sayisalloto\obj\Debug\net6.0\sayisalloto.csproj.CoreCompileInputs.cache
+E:\amed balita\sayisalloto\obj\Debug\net6.0\sayisalloto.dll
+E:\amed balita\sayisalloto\obj\Debug\net6.0\refint\sayisalloto.dll
+E:\amed balita\sayisalloto\obj\Debug\net6.0\sayisalloto.pdb
+E:\amed balita\sayisalloto\obj\Debug\net6.0\sayisalloto.genruntimeconfig.cache
+E:\amed balita\sayisalloto\obj\Debug\net6.0\ref\sayisalloto.dll
